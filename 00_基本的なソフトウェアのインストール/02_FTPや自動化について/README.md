@@ -38,8 +38,7 @@
 
 
 ## 自動化システム
-コードの最小化やテストの実行などのような反復作業を自動的に実行することができる
-👉Webpack、Grunt、Gulp などがある
+コードの最小化やテストの実行などのような反復作業を自動的に実行することができる<br>👉Webpack、Grunt、Gulp などがある
 
 [Webpack](https://webpack.js.org/)
 - モジュールバンドラー
@@ -48,8 +47,7 @@
 
 [Grunt](https://gruntjs.com/)
 - 対応している処理はファイルの結合やSassやTypeScriptなどの変換（コンパイル）、JavaScriptやCSSの最小化（minify）など
-- JavaScriptで記述され、*npmで公開されている。通常はNode.js上で実行され、Nodeが対応している環境であればどこでも動作させることができる
-*node.jsのライブラリやパッケージを管理するためのツール。package.jsonが設定ファイル
+- JavaScriptで記述され、*npmで公開されている。通常はNode.js上で実行され、Nodeが対応している環境であればどこでも動作させることができる<br>*node.jsのライブラリやパッケージを管理するためのツール。package.jsonが設定ファイル
 
 [Gulp](https://gulpjs.com/)
 - ファイルを圧縮してファイルサイズを軽くしたり、サーバーにアップロードをする作業を自動化したりすることで開発を効率的に行うことができる

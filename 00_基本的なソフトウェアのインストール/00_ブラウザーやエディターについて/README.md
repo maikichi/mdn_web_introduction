@@ -83,7 +83,7 @@
 
 **[GIMP](https://www.gimp.org/)**
 - 無料
-- 画像編集ソフトではありますがペイントツールとして活用することもでき、Illustratorのような機能も搭載されている
+- 画像編集ソフトではあるがペイントツールとして活用することもでき、Illustratorのような機能も搭載されている
 - 拡大・縮小に弱い(拡大する際は画質が荒くなったように感じられることが多く、チープさが出てしまうかも？)
 
 **[Paint.NET](https://www.getpaint.net/)**
@@ -95,15 +95,15 @@
 **[Sketch](https://www.getpaint.net/)**
 - 有料(買い切りなのでAdobe製品よりも安い)
 - MacOSのみ
-- WEBサイト、モバイルアプリのデザイン（大規模案件・デザイン効率化）向き
+- WEBサイト、モバイルアプリのデザイン（大規模案件・デザイン効率化）向き
 
 **[Photoshop](https://www.adobe.com/jp/products/photoshop.html?gclid=CjwKCAiAopuvBhBCEiwAm8jaMXrqsFCuMU4UVTcjsMEzcEbmpPGuq-4nfh10lTvMd7lCCfszeaC5TxoCPQAQAvD_BwE&sdid=WG1BJCKG&mv=search&mv2=paidsearch&ef_id=CjwKCAiAopuvBhBCEiwAm8jaMXrqsFCuMU4UVTcjsMEzcEbmpPGuq-4nfh10lTvMd7lCCfszeaC5TxoCPQAQAvD_BwE:G:s&s_kwcid=AL!3085!3!642111400203!e!!g!!photoshop!739872194!102573496014&gad_source=1)**
--　有料
+- 有料
 - 写真や画像の修正・加工に特化
 - アプリケーション内でほとんどすべての画像編集ができる
 
 **[XD](https://helpx.adobe.com/jp/xd/get-started.html)**
--　有料
+- 有料
 - Photoshopと同じくAdobe社が提供
 - ひとつのアプリケーション内でデザインからプロトタイプ（試作品）の作成まで行える
 - アニメーションをつけたり、ページの遷移を確認したりすることができる
